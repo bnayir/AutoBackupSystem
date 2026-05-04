@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>🇬🇧 English</strong> | <a href="README.tr.md">🇹🇷 Türkçe</a>
+</p>
+
 # Auto Backup System
 
 A simple and efficient Python-based automation tool that creates time-stamped backups of a source directory.
