@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>🇹🇷 Türkçe</strong> | <a href="README.md">🇬🇧 English</a>
+</p>
+
 #  Otomatik Yedekleme Sistemi
 
 Kaynak dizindeki dosyaların zaman damgalı yedeklerini oluşturan, Python tabanlı basit ve etkili bir otomasyon aracı.
